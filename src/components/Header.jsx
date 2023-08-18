@@ -45,7 +45,7 @@ const Header = () => {
         />
       )}
       <h1 className="lg:text-left text-center font-[900] font-milea text-3xl text-brown-shade-2 py-6">
-        Tinhearts
+        Tintreats
       </h1>
 
       <NavBar isOpen={isOpen} setIsOpen={setIsOpen} />
